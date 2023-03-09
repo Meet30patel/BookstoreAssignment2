@@ -6,4 +6,5 @@ removd option for the default identity.
 tested the app  ran pretty smooth 
 Action items:
 modify the naqvigation and update the copyright from static to dynamic.
+change the name of welcome page 
 
