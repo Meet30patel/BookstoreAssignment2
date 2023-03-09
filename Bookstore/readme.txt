@@ -12,4 +12,6 @@ then open root>lib >bootstrap>dist> css > bootstrap.css and at there i renamed t
 then paste copy code in the bootstrap.bk.css file.
 run the file and went pretty smooth.
 
+09-03-2023 (17:20)
+in _layout.cshtml did the chage in header and footer.	 
 
